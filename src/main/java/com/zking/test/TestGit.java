@@ -8,6 +8,7 @@ public class TestGit {
 
     public void test(){
         System.out.println("我与Git的第一次");
+        System.out.println("第二行代码");
     }
 
 }
